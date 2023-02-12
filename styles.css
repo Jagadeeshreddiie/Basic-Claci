@@ -3,7 +3,7 @@ body{
     box-sizing: border-box;
     margin:0;
 }
-
+/* 
 nav{
     display:flex;
     height:10vh;
@@ -32,7 +32,7 @@ nav span{
 span img{
     width:20px;
     margin-left:10px;
-}
+} */
 .container{
     background-color:rgb(200, 249, 254);
     width:100%;
